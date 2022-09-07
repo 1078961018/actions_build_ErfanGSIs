@@ -6,7 +6,7 @@ on:
     
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/V13.0.5.0.SJJCNXM/miui_CAS_V13.0.5.0.SJJCNXM_de6e6c4571_12.0.zip
+  ROM_URL: https://hugeota.d.miui.com/V13.1.22.9.1.DEV/miui_MATISSE_V13.1.22.9.1.DEV_8a285f084a_13.0.zip
   ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
